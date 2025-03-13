@@ -1,0 +1,7 @@
+id,type,Pmax_installed_MW,Capacity_installed_MWh,storage_cost,total_cost
+1,batteries,0.0,0.0,0.0,0.0
+2,hydro_storage,0.0,0.0,0.0,0.0
+3,EV_shift,133180.0,665900.0,0.0,0.0
+4,batteries,0.0,0.0,0.0,0.0
+5,hydro_storage,0.0,0.0,0.0,0.0
+6,EV_shift,53272.0,266360.0,0.0,0.0
